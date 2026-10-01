@@ -1,0 +1,21 @@
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+@import 'admin-lte/dist/css/adminlte.min.css';
+body {
+ font-family: Arial, sans-serif;
+ }
+.brand-link {
+ font-weight: 600;
+}
+.content-header h1 {
+ font-size: 1.6rem;
+ font-weight: 600;
+}
+.curhat-card {
+ border-radius: 12px;
+}
+.curhat-welcome {
+ padding: 25px;
+}
+.message-card {
+ border-radius: 12px;
+}
